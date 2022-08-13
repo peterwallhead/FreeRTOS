@@ -1,0 +1,1 @@
+By using this excellent introduction video: [Starting with STM32 - Programming Tutorial for Beginners | Step by Step | Greidi Ajalik](https://www.youtube.com/watch?v=dnfuNT1dPiM) I was able to generate this default project as the base starting point for using the NUCLEO-F446RE STM32 development board.
